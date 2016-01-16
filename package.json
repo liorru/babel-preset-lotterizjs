@@ -1,0 +1,30 @@
+{
+  "name": "babel-preset-survivejs-kanban",
+  "version": "0.1.1",
+  "description": "Babel preset for SurviveJS Kanban application",
+  "author": "Lior Rutenberg <lior.rutenberg@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liorru/babel-preset-lotterizjs.git"
+  },
+  "homepage": "https://github.com/liorru/babel-preset-lotterizjs/",
+  "bugs": {
+    "url": "https://github.com/liorru/babel-preset-lotterizjs/issues"
+  },
+  "keywords": [
+    "babel"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-syntax-class-properties": "^6.3.13",
+    "babel-plugin-syntax-decorators": "^6.3.13",
+    "babel-plugin-syntax-object-rest-spread": "^6.3.13",
+    "babel-plugin-transform-class-properties": "^6.4.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-plugin-transform-object-rest-spread": "^6.3.13"
+  }
+}
